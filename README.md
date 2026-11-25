@@ -2,10 +2,9 @@
 
 **Oakland University | CSI-4130/5130 Artificial Intelligence Course Project**
 
-> **Prerecorded project presentation:** **[ADD VIDEO URL HERE BEFORE NOVEMBER 30, 2026, 11:00 PM ET]**  
-> The video should be viewable by anyone with the link (for example, an unlisted YouTube video or a publicly accessible Google Drive/OneDrive recording).  
-> **Final report:** `report.pdf` — add the completed PDF to the repository root.  
-> **Team member(s):** [ADD FULL NAME(S) AND OU EMAIL(S)]
+> **Prerecorded project presentation:** [Watch the presentation on YouTube](https://youtu.be/g2AxWfblSQE)  
+> Video link: https://youtu.be/g2AxWfblSQE  
+> **Team member(s):** [SYED HOQUE]
 
 ## Project overview
 
@@ -174,7 +173,8 @@ The live presentations are scheduled for **December 1 and December 3, 2026**, vi
 ### Final repository checklist
 
 - [ ] Add full name(s) and Oakland University email(s).
-- [ ] Replace the presentation-video placeholder and test the link in a private browser window.
+- [x] Add the prerecorded presentation video link to this README.
+- [ ] Test the YouTube link in a private browser window to confirm anyone with the link can watch.
 - [ ] Commit the **final E01–E05 notebook** (not an early three-method draft).
 - [ ] Add the completed report as `report.pdf`, or update its filename in this README.
 - [ ] Verify all files and relative links in the public repository.
