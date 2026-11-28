@@ -2,8 +2,8 @@
 
 **Oakland University | CSI-4130/5130 Artificial Intelligence Course Project**
 
-> **Prerecorded project presentation:** [Watch the presentation on YouTube](https://youtu.be/g2AxWfblSQE)  
-> Video link: https://youtu.be/g2AxWfblSQE  
+> **Prerecorded project presentation:** 
+> Video link: [https://youtu.be/g2AxWfblSQE  ](https://youtu.be/W4OPwFXUnFA?si=Lq6CHtdoBXrLmemC)
 > **Team member(s):** [SYED HOQUE]
 
 ## Project overview
